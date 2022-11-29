@@ -2,8 +2,14 @@
   "Footer": {
     "description": "Auto imported from components/footer.vue"
   },
+  "Haftaninfirsaatlari": {
+    "description": "Auto imported from components/haftaninfirsaatlari.vue"
+  },
   "Kampanya": {
     "description": "Auto imported from components/kampanya.vue"
+  },
+  "Kampanyalar": {
+    "description": "Auto imported from components/kampanyalar.vue"
   },
   "Kategoriler": {
     "description": "Auto imported from components/kategoriler.vue"

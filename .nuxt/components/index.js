@@ -1,5 +1,7 @@
 export { default as Footer } from '../..\\components\\footer.vue'
+export { default as Haftaninfirsaatlari } from '../..\\components\\haftaninfirsaatlari.vue'
 export { default as Kampanya } from '../..\\components\\kampanya.vue'
+export { default as Kampanyalar } from '../..\\components\\kampanyalar.vue'
 export { default as Kategoriler } from '../..\\components\\kategoriler.vue'
 export { default as Navbar } from '../..\\components\\navbar.vue'
 export { default as Slider } from '../..\\components\\slider.vue'

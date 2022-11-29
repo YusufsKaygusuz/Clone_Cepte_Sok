@@ -8,6 +8,8 @@
       <Products />
       <Category />
       <Kampanya />
+      <kampanyalar />
+      <haftaninfirsaatlari />
       <Footer />
     </div>
   </template>
@@ -18,9 +20,10 @@
   import Products from '../components/urunler.vue';
   import Kampanya from '../components/kampanya.vue';
   import Category from '../components/kategoriler.vue';
- 
+  import kampanyalar from '../components/kampanyalar.vue';
+  import haftaninfirsaatlari from '../components/haftaninfirsaatlari.vue';
   export default {
       name: "IndexPage",
-      components: { Navbar,Slider2 ,Footer,Category,Kampanya,Products}
+      components: { Navbar,Slider2 ,Footer,Category,Kampanya,Products,haftaninfirsaatlari,kampanyalar}
   }
   </script>
