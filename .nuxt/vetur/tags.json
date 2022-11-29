@@ -1,0 +1,23 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Kampanya": {
+    "description": "Auto imported from components/kampanya.vue"
+  },
+  "Kategoriler": {
+    "description": "Auto imported from components/kategoriler.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "Slider": {
+    "description": "Auto imported from components/slider.vue"
+  },
+  "Slider2": {
+    "description": "Auto imported from components/slider2.vue"
+  },
+  "Urunler": {
+    "description": "Auto imported from components/urunler.vue"
+  }
+}
